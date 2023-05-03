@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Allow: /
+Allow: /sitemap.html
+Allow: /https://www.customraptors.com/index.html
+Sitemap: https://www.customraptors.com/sitemap.xml
